@@ -1,4 +1,4 @@
-package arush.smartinterzassignment1.ui.theme
+package garima.smartinterzassignment1.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
