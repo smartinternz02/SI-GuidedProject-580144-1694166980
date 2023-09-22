@@ -1,4 +1,4 @@
-package arush.smartinternzassignment4
+package garima.smartinternzassignment4
 
 import android.content.Intent
 import android.os.Bundle
