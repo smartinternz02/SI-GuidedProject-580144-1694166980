@@ -1,4 +1,4 @@
-package arush.smartinternzassignment4.ui.theme
+package garima.smartinternzassignment4.ui.theme
 
 import android.app.Activity
 import android.os.Build
