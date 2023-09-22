@@ -1,4 +1,4 @@
-package arush.smartinterzassignment1
+package garima.smartinterzassignment1
 
 import org.junit.Test
 
