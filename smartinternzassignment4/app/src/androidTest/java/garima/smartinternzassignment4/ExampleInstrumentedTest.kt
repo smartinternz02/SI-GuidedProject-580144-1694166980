@@ -1,4 +1,4 @@
-package arush.smartinternzassignment4
+package garima.smartinternzassignment4
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
