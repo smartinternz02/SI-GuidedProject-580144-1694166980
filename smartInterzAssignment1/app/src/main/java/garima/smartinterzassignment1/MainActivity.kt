@@ -1,4 +1,4 @@
-package arush.smartinterzassignment1
+package garima.smartinterzassignment1
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
